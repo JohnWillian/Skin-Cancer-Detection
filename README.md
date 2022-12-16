@@ -2,6 +2,7 @@
 This project is dedicated to detecting types of skin cancer using deep learning methods.
 
 ## About Dataset
+Reference: https://www.kaggle.com/datasets/farjanakabirsamanta/skin-cancer-dataset
 A training set for academic machine learning can be created using the dataset, which comprises of 10015 dermatoscopic images. All significant diagnostic categories for pigmented lesions are represented in the cases in a representative manner:
 
 - Actinic keratoses and intraepithelial carcinoma / Bowen's disease (akiec),
